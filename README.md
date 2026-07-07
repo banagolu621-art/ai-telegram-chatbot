@@ -26,9 +26,9 @@ This project is an AI-powered Telegram chatbot developed using n8n workflow auto
 - Webhooks
 - JSON
 
-## Workflow
 
-(Add workflow screenshot)
+
+
 
 ## Architecture
 
